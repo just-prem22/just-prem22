@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Prem Kumar 👋
 
-<!--
-**just-prem22/just-prem22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student at DY Patil International University  
+💻 Learning C++, Python, HTML, CSS, JavaScript, AI & Data Science  
+🚀 Interested in Tech Innovations, Projects & Problem Solving  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills (Beginner Level)
+- C++
+- Python
+- HTML
+- CSS
+- JavaScript
+- Data Science (Learning)
+
+---
+
+## 📚 Currently Learning
+- Machine Learning Basics  
+- Python for Data Science  
+- Web Development Fundamentals  
+- Git & GitHub  
+
+---
+
+## 🎯 Goals
+- Build strong programming fundamentals  
+- Create real-world projects  
+- Improve problem solving skills  
+- Explore AI & Machine Learning
