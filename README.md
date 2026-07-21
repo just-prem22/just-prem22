@@ -2,7 +2,7 @@
   <img src="github_banner_1280x640.png" alt="Banner" width="100%" />
 </p>
 
-# Hi, I'm Prem Kumar 👋
+# Hi, I'm Prem Kumar 
 
 🎓 B.Tech CSE Student at DY Patil International University  
 💻 Learning C++, Python, HTML, CSS, JavaScript, AI & Data Science  
