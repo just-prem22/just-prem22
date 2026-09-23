@@ -8,15 +8,6 @@
   <strong>Computer Science Student · Builder · Problem Solver · Curious by Nature</strong>
 </p>
 
-<p align="center">
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
 ---
 
 <h2 align="center">ABOUT ME</h2>
@@ -76,7 +67,7 @@ I want to understand **why**.
 <h3 align="center">Primary Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python" height="55" alt="C++ Python" />
+  <img src="https://skillicons.dev/icons?i=cpp,python" height="55" alt="C++ and Python" />
 </p>
 
 <p align="center">
@@ -97,10 +88,10 @@ I want to understand **why**.
   <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
-<h3 align="center">Development & Infrastructure</h3>
+<h3 align="center">Development & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,firebase,mysql,html,css,js" height="45" alt="Git GitHub Linux Firebase MySQL HTML CSS JavaScript" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,firebase,mysql,html,css,js" height="45" alt="Git, GitHub, Linux, Firebase, MySQL, HTML, CSS and JavaScript" />
 </p>
 
 <p align="center">
@@ -140,12 +131,6 @@ Track expenses, allowances, shared expenses, debts, and financial activity throu
 
 Flutter · Firebase · Dart
 
-<br><br>
-
-<a href="https://github.com/">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=black" />
-</a>
-
 </td>
 
 <td width="50%" valign="top">
@@ -160,13 +145,7 @@ A platform for everyday file operations including PDF merging, document conversi
 
 <strong>Stack</strong>
 
-React · TypeScript · Tailwind · FastAPI
-
-<br><br>
-
-<a href="https://github.com/">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=black" />
-</a>
+React · TypeScript · Tailwind CSS · FastAPI
 
 </td>
 </tr>
@@ -186,12 +165,6 @@ A web-based communication system built to explore modern frontend architecture, 
 
 React · TypeScript · Node.js · Firebase
 
-<br><br>
-
-<a href="https://github.com/">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=black" />
-</a>
-
 </td>
 
 <td width="50%" valign="top">
@@ -207,12 +180,6 @@ An exploration into building a personal assistant capable of connecting software
 <strong>Focus</strong>
 
 AI · Automation · Systems · Human–Computer Interaction
-
-<br><br>
-
-<a href="https://github.com/">
-<img src="https://img.shields.io/badge/EXPLORATION-00E5FF?style=for-the-badge&logo=github&logoColor=black" />
-</a>
 
 </td>
 </tr>
@@ -350,7 +317,7 @@ I enjoy exploring unfamiliar territory, experimenting with ideas, and connecting
 
 <p align="center">
   <br>
-  <strong>“I Build Things. I Break Things. I Learn.”</strong>
+  <strong>I Build Things. I Break Things. I Learn.</strong>
   <br><br>
   Build for experience.<br>
   Break for understanding.<br>
